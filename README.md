@@ -2,10 +2,10 @@
 - 👀 I’m interested in:
 -   Software Quality
 -   Home Automation
-      Raspberry PI
-      Arduino
+-     Raspberry PI
+-     Arduino
 -   Industrial Automation
-      Allen-Bradley ControlLogix/CompactLogix PLC development
+-     Allen-Bradley ControlLogix/CompactLogix PLC development
 - 🌱 I’m currently learning:
 -      ISA88
 -      Biotechnology Automation
